@@ -2,7 +2,7 @@
 <p align="center">
   <img src="media/working gif.gif" width="300"/>
 </p>
-## Overview
+ Overview
 
 I built this compact solid-state Tesla coil prototype as a hands-on electronics project to explore resonant circuits, high-frequency switching, and high-voltage behavior. The project helped me understand practical aspects of electronics prototyping, hardware debugging, and electromagnetic systems through experimentation and testing.
 
@@ -12,7 +12,7 @@ Since this project was built earlier during my initial experimentation phase, on
 
 ---
 
-## Objective
+ Objective
 
 The main objective of this project was to gain practical experience with:
 
@@ -23,7 +23,7 @@ The main objective of this project was to gain practical experience with:
 * High-voltage safety considerations
 
 
-## Working Principle
+ Working Principle
 
 The Tesla coil operates using resonant inductive coupling between two tuned circuits. The primary coil transfers energy to the secondary coil when both operate near the same resonant frequency.
 
@@ -39,7 +39,7 @@ where:
 Efficient resonance between the coils results in voltage amplification and high-frequency discharge generation.
 
 
-## Construction
+ Construction
 
 I constructed the secondary coil using enamel-coated copper wire wound around a PVC cylindrical form. I focused on maintaining consistent winding and insulation throughout the build process.
 
@@ -48,7 +48,7 @@ I built the primary coil using thicker copper wire to handle higher current leve
 The system used a solid-state driver arrangement to energize the primary coil at high frequency.
 
 
-## Observations
+ Observations
 
 During experimentation and testing, I observed several important behaviors:
 
@@ -61,7 +61,7 @@ During experimentation and testing, I observed several important behaviors:
 The project helped me understand how sensitive resonant systems are to tuning and physical configuration.
 
 
-## Challenges Faced
+ Challenges Faced
 
 One of the main challenges was resonance tuning between the primary and secondary coils. Achieving stable operation required repeated adjustments and testing.
 
