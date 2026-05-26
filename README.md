@@ -18,7 +18,6 @@ The main objective of this project was to gain practical experience with:
 
 * Resonant LC circuits
 * Electromagnetic induction
-* High-frequency switching
 * Coil tuning and resonance
 * Hardware assembly and troubleshooting
 * High-voltage safety considerations
